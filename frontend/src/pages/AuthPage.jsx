@@ -37,7 +37,7 @@ const AuthPage = () => {
 
           <SignInButton mode="modal">
             <button className="cta-button">
-              Get Started with Slap
+              Get Started with GuzoStudy
               <span className="button-arrow">→</span>
             </button>
           </SignInButton>
